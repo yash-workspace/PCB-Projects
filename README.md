@@ -1,7 +1,3 @@
-Here is a humanized version of your README. It shifts the tone from a rigid, robotic checklist to an engaging, authentic engineering journal. It highlights your growth, curiosity, and the "why" behind your designs, which looks fantastic to peers and potential employers alike.
-
----
-
 # My PCB Design Journey
 
 Welcome! This repository is a living document of my hands-on journey into the world of PCB design and practical electronics using KiCad.
